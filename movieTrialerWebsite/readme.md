@@ -21,7 +21,7 @@
 <ul>
 <li>run the program</li>
 </ul>
-<pre><code class="language-sh">$ python entertainment_cent.py
+<pre><code class="language-sh">$ python entertainment.py
 </code></pre>
 <h1><a id="Acknowlegement_23"></a>Acknowlegement</h1>
 <p>Thanks for all help from Udacity.<br>
