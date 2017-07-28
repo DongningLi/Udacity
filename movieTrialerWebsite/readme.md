@@ -1,4 +1,3 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>readme.md</title><style></style></head><body id="preview">
 <h1><a id="Movie_Trailer_Website_0"></a>Movie Trailer Website</h1>
 <p>A static web page allowing visitors to browse their movies and watch the trailers.</p>
 <h1><a id="Download_3"></a>Download</h1>
